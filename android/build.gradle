@@ -33,5 +33,6 @@ repositories {
 
 dependencies {
     compile "com.facebook.react:react-native:+"
+    compile 'com.google.firebase:firebase-messaging:18.0.0'
     compile group: 'com.zopim.android', name: 'sdk', version: '1.4.2'
 }
